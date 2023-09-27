@@ -5,9 +5,9 @@ There might be some repitition because a lot of these fall under multiple catego
 ___
 
 ## AI
-  -[Poe](https://poe.com/): multiple AI chatbots
-  -[Pdf ai](https://pdf.ai/): chatbot that can read pdfs
-  -[Stopncii](https://stopncii.org/): report non consensual intimate images and AI generated revenge porn
+-[Poe](https://poe.com/): multiple AI chatbots
+-[Pdf ai](https://pdf.ai/): chatbot that can read pdfs
+-[Stopncii](https://stopncii.org/): report non consensual intimate images and AI generated revenge porn
 
 ___
 
