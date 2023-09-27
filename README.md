@@ -5,12 +5,14 @@ There might be some repitition because a lot of these fall under multiple catego
 ___
 
 ## AI
--[Poe](https://poe.com/): multiple AI chatbots
-
--[Pdf ai](https://pdf.ai/): chatbot that can read pdfs
-
--[Stopncii](https://stopncii.org/): report non consensual intimate images and AI generated revenge porn
+- [Poe](https://poe.com/): multiple AI chatbots  
+- [Pdf ai](https://pdf.ai/): chatbot that can read pdfs  
+- [Stopncii](https://stopncii.org/): report non consensual intimate images and AI generated revenge porn
 
 ___
 
 ## ART
+- [Devin Elle Kurtz’s brushes](https://tamberella.gumroad.com/): free brushes
+- [FilmGrab](https://film-grab.com/): Film Screencaps
+- [Glaze](https://glaze.cs.uchicago.edu/): Protect art from generative AI
+- [Sketchup](https://www.sketchup.com): browser based 3d design tool
