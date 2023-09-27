@@ -6,7 +6,9 @@ ___
 
 ## AI
 -[Poe](https://poe.com/): multiple AI chatbots
+
 -[Pdf ai](https://pdf.ai/): chatbot that can read pdfs
+
 -[Stopncii](https://stopncii.org/): report non consensual intimate images and AI generated revenge porn
 
 ___
