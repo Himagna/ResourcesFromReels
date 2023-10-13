@@ -64,7 +64,7 @@ ___
 - [Shots.so](https://shots.so/): mockup generator  
 - [Blush.design](https://blush.design/): Generate illustrations  
 - [Heroicons](https://heroicons.com/): svg icons  
-- [list of public domain image resources](https://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources#General_collections): nan  
+- [list of public domain image resources](https://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources#General_collections)   
 - [Wikimedia commons](https://commons.wikimedia.org): public domain media  
 - [Haikei](https://app.haikei.app/): svg design generator  
 - [FFFuel](https://fffuel.co/): svg design generator  
@@ -91,18 +91,18 @@ ___
 - [Realtime Colors](https://realtimecolors.com/): Generate color palettes for website  
 - [Spline](https://app.spline.design/home): 3d design in browser  
 ## Fashion
-- [Saint Laurent](https://www.ysl.com/): nan  
-- [Raf Simons](https://www.historyofmyworld.com/): nan  
-- [DSM NY E-Shop](https://shop-us.doverstreetmarket.com/): nan  
-- [Golf Wang](https://golfwang.com/): nan  
-- [Rick Owens](https://www.rickowens.eu/): nan  
-- [Off-white](https://www.off---white.com/): nan  
-- [Online-ceramics](https://online-ceramics.com/): nan  
-- [SSense](https://www.ssense.com/): nan  
-- [Taobao](https://world.taobao.com/?): nan  
-- [Depop](https://www.depop.com/): nan  
-- [Streetwear subreddit](https://www.reddit.com/r/streetwear/): nan  
-- [Grailed](https://www.grailed.com/): nan  
+- [Saint Laurent](https://www.ysl.com/)   
+- [Raf Simons](https://www.historyofmyworld.com/)   
+- [DSM NY E-Shop](https://shop-us.doverstreetmarket.com/)   
+- [Golf Wang](https://golfwang.com/)   
+- [Rick Owens](https://www.rickowens.eu/)   
+- [Off-white](https://www.off---white.com/)   
+- [Online-ceramics](https://online-ceramics.com/)   
+- [SSense](https://www.ssense.com/)   
+- [Taobao](https://world.taobao.com/?)   
+- [Depop](https://www.depop.com/)   
+- [Streetwear subreddit](https://www.reddit.com/r/streetwear/)   
+- [Grailed](https://www.grailed.com/)   
 ## Videogames
 - [Paimon moe](https://paimon.moe/): Genshin wish/resource calculator   
 - [Akasha system](https://akasha.cv/): genshin top builds  
@@ -115,20 +115,20 @@ ___
 - [BBC Audio Library](https://sound-effects.bbcrewind.co.uk/): Sound effects recorded by BBC  
 - [NASA Audio Collection](https://www.nasa.gov/home/hqnews/2011/sep/HQ_11-321_NASA_Sounds.html): Audio samples from NASA  
 - [Bandlab](https://www.bandlab.com/): Online DAW  
-- [99Sounds](https://99sounds.org/): nan  
-- [Cymatics](https://cymatics.fm/): nan  
-- [SoundPacks](https://soundpacks.com/): nan  
-- [Bedroom Producers Blog](https://bedroomproducersblog.com/free-samples/): nan  
-- [SampleSwap](https://sampleswap.org/): nan  
-- [MusicRadar](https://www.musicradar.com/news/tech/free-music-samples-royalty-free-loops-hits-and-multis-to-download): nan  
-- [SampleFocus](https://samplefocus.com/): nan  
-- [Freesound](https://freesound.org/): nan  
+- [99Sounds](https://99sounds.org/)   
+- [Cymatics](https://cymatics.fm/)   
+- [SoundPacks](https://soundpacks.com/)   
+- [Bedroom Producers Blog](https://bedroomproducersblog.com/free-samples/)   
+- [SampleSwap](https://sampleswap.org/)   
+- [MusicRadar](https://www.musicradar.com/news/tech/free-music-samples-royalty-free-loops-hits-and-multis-to-download)   
+- [SampleFocus](https://samplefocus.com/)   
+- [Freesound](https://freesound.org/)   
 ## Organization
-- [Lastfm](https://www.last.fm/): nan  
-- [Storygraph](https://www.thestorygraph.com/): nan  
-- [Letterboxd](https://letterboxd.com/): nan  
-- [Serializd](https://www.serializd.com/): nan  
-- [Backloggd](https://www.backloggd.com/): nan  
+- [Lastfm](https://www.last.fm/)   
+- [Storygraph](https://www.thestorygraph.com/)   
+- [Letterboxd](https://letterboxd.com/)   
+- [Serializd](https://www.serializd.com/)   
+- [Backloggd](https://www.backloggd.com/)   
 ## Privacy
 - [ToSDR](https://tosdr.org/): Terms of service didnt read. Scores websites on privacy  
 - [Stopncii](https://stopncii.org/): report non consensual intimate images and AI generated revenge porn  
@@ -136,22 +136,22 @@ ___
 - [GNUnet](https://www.gnunet.org/en/): framework for privacy oriented p2p networking  
 - [Hyphanet](https://www.hyphanet.org/index.html): anti-censorship decentralized p2p platform  
 - [I2P](https://geti2p.net/en/): Darknet protocol  
-- [VPN alternatives](https://ijnet.org/en/story/vpns-arent-perfect-here-are-some-alternatives): nan  
+- [VPN alternatives](https://ijnet.org/en/story/vpns-arent-perfect-here-are-some-alternatives)   
 - [UrlScan](https://urlscan.io/): scan suspicious urls  
-- [OSINT framework](https://osintframework.com/): nan  
-- [Surveillance Self-Defence](https://ssd.eff.org/): nan  
-- [PrivacyTools](https://www.privacytools.io/): nan  
+- [OSINT framework](https://osintframework.com/)   
+- [Surveillance Self-Defence](https://ssd.eff.org/)   
+- [PrivacyTools](https://www.privacytools.io/)   
 - [HaveIBeenPwned](https://haveibeenpwned.com/): check if your email shows up in a data breach  
 ## Programming
 - [Roadmaps](https://roadmap.sh/): programming roadmaps  
 - [Build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): repo of guides to build technologies from scratch  
 - [Daily.dev](https://app.daily.dev/): news feed for devs  
 - [TopCoder](https://www.topcoder.com/thrive/search?tags%5B%5D=Competitive+Programming+Tutorials): Competitive Programming Tutorials  
-- [CodeForces](https://codeforces.com/): nan  
-- [CodeChef](https://www.codechef.com/): nan  
-- [HackerEarth](https://www.hackerearth.com/): nan  
-- [HackerRank](https://www.hackerrank.com/): nan  
-- [Spoj](https://www.spoj.com/): nan  
+- [CodeForces](https://codeforces.com/)   
+- [CodeChef](https://www.codechef.com/)   
+- [HackerEarth](https://www.hackerearth.com/)   
+- [HackerRank](https://www.hackerrank.com/)   
+- [Spoj](https://www.spoj.com/)   
 - [Repos Every Dev Should Bokmark](https://dev.to/jon_snow789/20-github-repositories-every-developer-should-bookmarkhigh-value-resources-4jm6): List of 21 github repos  
 - [Awesome for beginners](https://github.com/MunGell/awesome-for-beginners): list of easy for beginners repos  
 - [DevDocs](https://devdocs.io/): API documentation  
