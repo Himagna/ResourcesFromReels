@@ -3,6 +3,13 @@ Basically a database of Links and resources from every "lifehack" kind of post, 
 Predominantly based on my areas of interest. I use a lot of these very often but some ive never used. The utility tag is basically a misc tag.
 There might be some repitition because a lot of these fall under multiple categories.
 ___
+## Categories
+- [Design](#design)  
+- [WebDev](#webdev)
+- [Programming]
+- [Career]
+- [Music Production]
+___
 ## AI
 - [Tensorflow playground](https://playground.tensorflow.org/): experiment with neural networks in the browser  
 - [Pdf ai](https://pdf.ai/): chatbot that can read pdfs  
