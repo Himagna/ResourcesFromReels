@@ -9,7 +9,7 @@ ___
 - [Programming](#programming)
 - [AI](#ai)
 - [Career](#career)
-- [Music Production](#musicproduction)
+- [Music Production](#music-production)
 - [privacy](#privacy)
 - [Organization](#organization)
 - [De-Enshittification](#de-enshittification)
