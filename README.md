@@ -6,9 +6,22 @@ ___
 ## Categories
 - [Design](#design)  
 - [WebDev](#webdev)
-- [Programming]
-- [Career]
-- [Music Production]
+- [Programming](#programming)
+- [AI](#ai)
+- [Career](#career)
+- [Music Production](#musicproduction)
+- [privacy](#privacy)
+- [Organization](#organization)
+- [De-Enshittification](#de-enshittification)
+- [Search](#search)
+- [Utility](#utility)
+- [Customization](#customization)
+- [Math](#math)
+- [Fashion](#fashion)
+- [Art](#art)
+- [Videogames](#videogames)
+- [wellbeing](#wellbeing)
+- [Crocheting](#crocheting)
 ___
 ## AI
 - [Tensorflow playground](https://playground.tensorflow.org/): experiment with neural networks in the browser  
