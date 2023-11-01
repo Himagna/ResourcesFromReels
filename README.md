@@ -2,6 +2,8 @@
 Basically a database of Links and resources from every "lifehack" kind of post, video and tiktok, that has come acrosss my feed.
 Predominantly based on my areas of interest. I use a lot of these very often but some ive never used. The utility tag is basically a misc tag.
 There might be some repitition because a lot of these fall under multiple categories.
+
+[This list as a Notion database](https://hmgnx.notion.site/d5d850f62890401ea74a94e4c133b1bf?v=e277571adf5c4cdaa070896017869479&pvs=4) (updated more frequently)
 ___
 ## Categories
 - [Design](#design)  
